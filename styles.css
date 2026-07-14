@@ -6,15 +6,25 @@
 */
 
 /* Beige background */
-
-
+body {
+    background-color: beige;
+}
 
 /* Sans-serif font for headers */
-
-
+h1,
+th {
+    font-family: sans-serif;
+}
 
 /* 20px margin around table + collapsed borders */
-
-
+table {
+    margin: 20px;
+    border-collapse: collapse;
+}
 
 /* 1px black solid border on table and cells */
+table,
+th,
+td {
+    border: 1px solid black;
+}
