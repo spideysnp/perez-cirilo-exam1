@@ -5,4 +5,6 @@
     Complete the required JavaScript function here.
 */
 
-function describeTable() {}
+function describeTable() {
+    confirm("This table shows student names, course information, and grades.");
+}
