@@ -4,3 +4,5 @@
 
     Complete the required JavaScript function here.
 */
+
+function describeTable() {}
